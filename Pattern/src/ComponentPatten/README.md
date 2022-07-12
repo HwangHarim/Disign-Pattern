@@ -1,8 +1,8 @@
 ## 컴퍼지트 패턴이란
 
 ---
+![Untitled](https://user-images.githubusercontent.com/76032947/178474412-798cc49a-aed7-4cc5-953b-5064fe3437b6.png)
 
-![컴퍼지트 패턴 구조](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc702ee0-0060-4fe7-9241-e4017b052c0f/Untitled.png)
 
 - Component
     - 구체적인 부분(추상적이어야 한다.)
