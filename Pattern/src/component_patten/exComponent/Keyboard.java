@@ -1,4 +1,4 @@
-package ComponentPatten.exComponent;
+package component_patten.exComponent;
 
 public class Keyboard extends ComputerDevice{
     private int price;

@@ -1,10 +1,10 @@
-package ComponentPatten.ex1;
+package component_patten.ex1;
 
-public class Monitor {
+public class Speaker {
     private final int price;
     private final int power;
 
-    public Monitor(int price, int power) {
+    public Speaker(int price, int power) {
         this.price = price;
         this.power = power;
     }

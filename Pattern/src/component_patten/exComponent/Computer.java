@@ -1,4 +1,4 @@
-package ComponentPatten.exComponent;
+package component_patten.exComponent;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ComponentPatten.ex1;
+package component_patten.ex1;
 
 public class Computer {
     private Body body;

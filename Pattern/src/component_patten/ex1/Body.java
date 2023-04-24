@@ -1,8 +1,8 @@
-package ComponentPatten.exComponent;
+package component_patten.ex1;
 
-public class Body extends ComputerDevice {
-    private final int price;
-    private final int power;
+public class Body {
+    private int price;
+    private int power;
 
     public Body(int price, int power) {
         this.price = price;

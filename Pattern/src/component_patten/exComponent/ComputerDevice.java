@@ -1,4 +1,4 @@
-package ComponentPatten.exComponent;
+package component_patten.exComponent;
 
 public abstract class ComputerDevice {
     public abstract int getPrice();

@@ -1,6 +1,6 @@
-package ComponentPatten.exComponent;
+package component_patten.ex1;
 
-public class Monitor extends ComputerDevice{
+public class Monitor {
     private final int price;
     private final int power;
 
@@ -9,6 +9,11 @@ public class Monitor extends ComputerDevice{
         this.power = power;
     }
 
-    public int getPrice(){return price;}
-    public int getPower(){return power;}
+    public int getPrice() {
+        return price;
+    }
+
+    public int getPower() {
+        return power;
+    }
 }

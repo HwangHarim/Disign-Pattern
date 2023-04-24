@@ -1,10 +1,10 @@
-package ComponentPatten.ex1;
+package component_patten.ex1;
 
-public class Body {
-    private int price;
-    private int power;
+public class Keyboard {
+    private final int price;
+    private final int power;
 
-    public Body(int price, int power) {
+    public Keyboard(int price, int power) {
         this.price = price;
         this.power = power;
     }

@@ -1,10 +1,10 @@
-package ComponentPatten.ex1;
+package component_patten.exComponent;
 
-public class Speaker {
+public class Body extends ComputerDevice {
     private final int price;
     private final int power;
 
-    public Speaker(int price, int power) {
+    public Body(int price, int power) {
         this.price = price;
         this.power = power;
     }
